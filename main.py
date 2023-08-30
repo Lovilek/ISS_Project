@@ -5,8 +5,8 @@ import time
 
 MY_LAT = 43.660084
 MY_LONG = 51.149294
-email = "wingeddemon2274@gmail.com"
-password = "ermwhcbqlfqecxql"
+email = "YOUR_EMAIL"
+password = "APP_PASSWORD"
 
 parameter = {
     "lat": MY_LAT,
